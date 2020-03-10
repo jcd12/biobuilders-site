@@ -1,5 +1,5 @@
 # Site settings
-title: Title in tab
+title: Title in tab 
 email: hello@biobuilders.net
 url: https://example.github.io
 description: "Welcome to the website for the DTU BioBuilders of 2020!" # Description on first page
@@ -16,6 +16,10 @@ footer: DTU BioBuilders
 social:
   - title: facebook
     url: https://facebook.com/dtubiobuilders
+  - title: instagram
+    url: https://www.instagram.com/igem_dtubiobuilders
+  - title: linkedin
+    url:  
   - title: github
     url: https://github.com/https://github.com/jcd12/biobuilders-site
 

@@ -1069,6 +1069,9 @@
 .fa-play-circle:before {
   content: "\f144";
 }
+.fa-dna:before {
+  content: "\f471";
+}
 .fa-ticket:before {
   content: "\f145";
 }
