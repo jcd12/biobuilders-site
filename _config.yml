@@ -6,7 +6,7 @@ description: "Welcome to the website for the DTU BioBuilders of 2020!" # Descrip
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#234f1e'
+  primary-dark: '#003024'
   links: '#0b6623'
 
 # Footer settings
