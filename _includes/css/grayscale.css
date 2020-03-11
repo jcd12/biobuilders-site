@@ -308,6 +308,12 @@ a:focus {
     background-color: {{ site.color.links }};
 }
 
+.btn-default-fill {
+    border: 1px solid {{ site.color.links }};
+    color: {{ site.color.links }};
+}
+
+
 ul.banner-social-buttons {
     margin-top: 0;
 }
