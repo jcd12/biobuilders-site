@@ -1,8 +1,8 @@
 # Site settings
-title: Title in tab 
+title: DTU BioBuilders
 email: hello@biobuilders.net
 url: https://example.github.io
-description: "Welcome to the website for the DTU BioBuilders of 2020!" # Description on first page
+description: "Students solving problems with synthetic biology" # Description on first page
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
